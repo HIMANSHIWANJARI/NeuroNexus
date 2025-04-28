@@ -1,4 +1,4 @@
-# Google Form-like Web Form
+# Task 1 : Google Form-like Web Form
 
 This project is a simple web form that collects basic user details such as Full Name, Contact Number, Address, Company Name, Email Address, Department, and Gender. The form is built using only HTML and CSS, with no JavaScript involved. The form has been styled to resemble a Google Form-like design with additional enhancements.
 
@@ -30,6 +30,6 @@ This project is a simple web form that collects basic user details such as Full 
  
    git clone https://github.com/HIMANSHIWANJARI/NeuroNexus.git
 
-## Open Link
+## Link
 
 https://himanshiwanjari.github.io/NeuroNexus/
