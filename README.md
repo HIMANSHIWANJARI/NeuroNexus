@@ -27,8 +27,9 @@ This project is a simple web form that collects basic user details such as Full 
 ## How to Use
 
  **Clone the repository**:
-   ```bash
+ 
    git clone https://github.com/HIMANSHIWANJARI/NeuroNexus.git
 
 ## Open Link
- - https://himanshiwanjari.github.io/NeuroNexus/
+
+https://himanshiwanjari.github.io/NeuroNexus/
